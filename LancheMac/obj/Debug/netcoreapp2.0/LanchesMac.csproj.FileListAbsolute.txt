@@ -1,0 +1,16 @@
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\LanchesMac.deps.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.dev.json
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\LanchesMac.dll
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\bin\Debug\netcoreapp2.0\LanchesMac.pdb
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfoInputs.cache
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfo.cs
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\obj\Debug\netcoreapp2.0\LanchesMac.csproj.CoreCompileInputs.cache
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\obj\Debug\netcoreapp2.0\LanchesMac.dll
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\obj\Debug\netcoreapp2.0\LanchesMac.pdb
+C:\Users\ilvan\source\repos\LancheMac\LancheMac\obj\Debug\netcoreapp2.0\LanchesMac.genruntimeconfig.cache
